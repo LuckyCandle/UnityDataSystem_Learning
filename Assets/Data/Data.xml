@@ -1,0 +1,21 @@
+<SerializedFile FileName="DataSaving">
+  <CoinNum>10</CoinNum>
+  <DiamondNum>10</DiamondNum>
+  <PosX>-6.895652</PosX>
+  <PosY>-1.218627</PosY>
+  <Enemy>
+    <positionX>-2.69971</positionX>
+    <positionY>3</positionY>
+    <IsDead>False</IsDead>
+  </Enemy>
+  <Enemy>
+    <positionX>1.577351</positionX>
+    <positionY>3.00003</positionY>
+    <IsDead>False</IsDead>
+  </Enemy>
+  <Enemy>
+    <positionX>-1.851341</positionX>
+    <positionY>3</positionY>
+    <IsDead>False</IsDead>
+  </Enemy>
+</SerializedFile>
